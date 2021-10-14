@@ -1,0 +1,6 @@
+print("Ce nume și prenume ai?")
+a=input()
+print("Ce îți dorești să devii în viitor?")
+b=input()
+print("Te numești", a)
+print("Dorești să devii",b)
